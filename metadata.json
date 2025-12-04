@@ -1,0 +1,5 @@
+{
+  "name": "Monoklix Sentinel",
+  "description": "Enterprise-grade server monitoring dashboard for Monoklix infrastructure (Main & Proxy Nodes) with AI-powered health analysis.",
+  "requestFramePermissions": []
+}
