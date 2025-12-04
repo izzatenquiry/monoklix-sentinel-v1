@@ -167,7 +167,7 @@ scrape_configs:
                         <ul className="list-disc list-inside text-xs text-slate-300 space-y-1">
                             <li>Build Method: <code>Dockerfile</code></li>
                             <li>Docker Path: <code>./Dockerfile</code> (Default)</li>
-                            <li><strong>HTTP Port:</strong> <code>80</code> (Penting!)</li>
+                            <li><strong>HTTP Port:</strong> <code>8080</code> (Updated!)</li>
                         </ul>
                     </div>
                 </li>
@@ -189,7 +189,7 @@ scrape_configs:
                 <div className="grid grid-cols-2 gap-4 text-xs">
                     <div>
                         <span className="block text-slate-500">Dashboard Ini (React)</span>
-                        <span className="font-mono text-white">Port 80 (Internal)</span>
+                        <span className="font-mono text-white">Port 8080 (Internal)</span>
                     </div>
                     <div>
                         <span className="block text-slate-500">Grafana</span>
